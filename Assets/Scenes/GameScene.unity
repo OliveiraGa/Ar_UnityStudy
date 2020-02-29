@@ -434,6 +434,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   materialPrefabGround: {fileID: -621184621979588601, guid: c08509aac5b95f248b71b9a0574ba999,
     type: 3}
+  rootScene: {fileID: 1192803237}
+  cerca: {fileID: 8505021070618557735, guid: 568a828547d610c42978e601f4ecebf9, type: 3}
+  canos: {fileID: 5528508150473777390, guid: 1e374a9c39b608d4488c97f9d444006b, type: 3}
 --- !u!1 &1192803237
 GameObject:
   m_ObjectHideFlags: 0
